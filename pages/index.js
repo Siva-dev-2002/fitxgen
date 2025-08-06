@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>FitxGen – Track Smart. Live Fit.</title>
+        <title>FitxGen</title>
         <meta name="description" content="Know your body fat percentage in 60 seconds. Scientifically accurate. AI-powered insights." />
       </Head>
 
